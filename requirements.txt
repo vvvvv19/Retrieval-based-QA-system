@@ -1,0 +1,4 @@
+torch>=1.10
+transformers>=4.0.0
+numpy>=1.18
+faiss-gpu>=1.7
